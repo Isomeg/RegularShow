@@ -14,7 +14,7 @@ function login() {
                     <input type='password' placeholder='Enter Password' className='form-control rounded-0'></input>
                 </div>
                 <button className='btn btn-success w-100'><strong>Sign In</strong></button>
-                <p></p>
+                <p>If you don't have create one.</p>
                 <button className='btn btn-default border w-100 bg-light'><strong>Sign Up</strong></button>
 
             </form>
